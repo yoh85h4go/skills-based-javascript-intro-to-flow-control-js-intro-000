@@ -37,5 +37,6 @@ function switchAge(age)
                   break;
                 case "7"||"75":
                   console.log("You have an age");
+                  break;
                 }
   }
