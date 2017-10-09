@@ -34,7 +34,7 @@ function switchAge(age)
                 case age===15:
                   console.log("You are a teenager");
                   break;
-                case (age>19||age<13):
+                case age===7||age===75:
                   console.log("You have an age");
                 }
   }
