@@ -42,13 +42,13 @@ function switchAge(age)
                 case 15:
                   text = "You are a teenager"
                   break;
-                case 16: 
+                case 16:
                   text = "You are a teenager"
                   break;
                 case 17:
                   text = "You are a teenager"
                   break;
-                case 18: 
+                case 18:
                   text = "You are a teenager"
                   break;
                 case 19:
